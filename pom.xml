@@ -15,8 +15,11 @@
 	
 	<modules>
 		<module>wielomodulowy-model</module>
+		<module>wielomodulowy-web</module>
 		<module>wielomodulowy-baza</module>
 		<module>wielomodulowy-rest</module>
         <module>wielomodulowy-klient_rest</module>
-    </modules>
+        <module>wielomodulowy-ear</module>
+		<module>wielomodulowy_soap_serwer</module>
+	</modules>
 </project>
